@@ -19,7 +19,7 @@ languages:
   - ruby
   - velocity
   - name: xml
-    source:
+    production:
       exclude:
         - .*/[.]settings-template[.]xml
         - .*/eclipse-code-formatter[.]xml
